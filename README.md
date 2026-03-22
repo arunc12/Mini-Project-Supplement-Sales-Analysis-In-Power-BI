@@ -61,7 +61,7 @@ Slicers: Category · Platform · Year · Location
 VisualDescriptionClustered Column ChartProjected Total Sales by Year — bar comparison 2026–2030Line ChartProjected Revenue by Year — smooth trend line of forecastLine ChartNet Revenue by Year — actual historical trend for comparisonFunnel ChartProjected Revenue by Scenario — Conservative vs Base vs Optimistic
 Forecast Basis: 2024 full-year net revenue ($3,831,019) as baseline · +7% for 2026 · +10% CAGR from 2027–2030
 YearProjected RevenueGrowth2026~$4,099,190+7%2027~$4,509,110+10%2028~$4,960,020+10%2029~$5,456,023+10%2030~$6,001,625+10%
-## Power BI Dashboard Preview
+## Dashboard Preview
 
 ### Dashboard 1
 
@@ -70,6 +70,7 @@ YearProjected RevenueGrowth2026~$4,099,190+7%2027~$4,509,110+10%2028~$4,960,020+
 ### Dashboard 2
 
 ![Dashboard 2](Dashboard2.png)
+
 
 📊 Performance Insights
 🟢 Vitamins were the top-grossing category with $3,721,089 in net revenue.
@@ -116,6 +117,9 @@ Click any chart element to cross-filter all other visuals instantly
 Arun
 Data Analyst | Power BI Developer
 📧 Email: (arunchinnasamy3@gmail.com)
+
 💼 LinkedIn: (www.linkedin.com/in/arun-c-b51b4b2a2)
+
 🌐 GitHub: (arunc12)
+
 If you found this project useful or have any feedback, feel free to reach out!
