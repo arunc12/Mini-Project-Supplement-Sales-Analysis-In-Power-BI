@@ -72,6 +72,7 @@ YearProjected RevenueGrowth2026~$4,099,190+7%2027~$4,509,110+10%2028~$4,960,020+
 ![Dashboard 2](Dashboard2.png)
 
 
+
 📊 Performance Insights
 🟢 Vitamins were the top-grossing category with $3,721,089 in net revenue.
 📅 2023 recorded peak net revenue at $3,863,855 among all full years.
