@@ -1,14 +1,14 @@
-📊 Supplement Sales Analytics and Performance Insights (Jan 2020 – Mar 2025)
+📊 #Supplement Sales Analytics and Performance Insights (Jan 2020 – Mar 2025)
 
 Tools: Power BI | DAX | Data Modeling | Power Query
 Domain: Retail | Sales Analytics | E-Commerce
 
-🧩 Project Overview
+🧩 ##Project Overview
 This project analyses supplement sales data (January 2020 – March 2025) across 16 products sold in USA, UK, and Canada on iHerb, Amazon, and Walmart.
 Using Power BI, the data was cleaned, modeled, and visualized across two interactive dashboards — a Sales Overview Dashboard and a Revenue Forecast Dashboard — to uncover key sales trends, platform performance, category insights, and future revenue projections.
 The dataset contains 4,385 rows (1 header + 4,384 records) with a total net revenue of $19,867,732 across 658,478 units sold.
 
-🎯 Project Objectives
+🎯 ##Project Objectives
 
 Analyse Sales Performance
 Study overall trends in supplement sales (2020–Mar 2025), focusing on net revenue, units sold, discounts, and returns across categories, platforms, and locations.
@@ -23,8 +23,7 @@ Project revenue trends for 2026–2030 using scenario-based forecasting (Conserv
 📂 Data Source
 SourcePeriodArun_Mini_Project.xlsx (Supplement Sales sheet)January 2020 – March 2025
 Domain: Retail Sales Analytics
-
-❓ Problem Statement
+## Problem Statement
 
 Analyse supplement sales performance across 16 products, 10 categories, 3 platforms, and 3 locations.
 Understand revenue distribution by category, platform, and geography.
@@ -35,10 +34,10 @@ Forecast projected revenue from 2026 to 2030 under multiple growth scenarios.
 Compare actual net revenue trends vs projected revenue year over year.
 
 
-🧾 Attribute Details
+🧾 ##Attribute Details
 Attribute NameData TypeDescriptionDateDateReporting date (weekly)CategoryTextSupplement category (Vitamin, Mineral, Protein, etc.)Sub CategoryTextSpecific product name (Whey Protein, Zinc, BCAA, etc.)LocationTextCountry of sale — USA, UK, CanadaPlatformTextSales channel — iHerb, Amazon, WalmartUnitsWhole NumberTotal units sold in the periodCost PriceCurrencyOriginal price per unit (₹ not applicable — USD)DiscountDecimalDiscount percentage appliedDiscount AmountCurrencyDiscount Amount = Cost Price × Discount %Actual Selling PriceCurrencyActual Selling Price = Cost Price − Discount AmountRevenueCurrencyRevenue = Units × Actual Selling PriceU.ReturnedWhole NumberNumber of units returned by customersU.Returned AmountCurrencyValue of returned unitsNet RevenueCurrencyNet Revenue = Revenue − U.Returned AmountActual Units SoldWhole NumberActual Units Sold = Units − U.Returned
 
-🧹 Data Preprocessing Steps
+🧹## Data Preprocessing Steps
 Data Collection:
 Sourced from the cleaned Supplement Sales sheet in Arun_Mini_Project.xlsx covering January 2020 to March 2025.
 Data Cleaning (Power Query):
@@ -114,8 +113,8 @@ Use slicers (Category, Platform, Location, Year) to filter dynamically
 Click any chart element to cross-filter all other visuals instantly
 
 
-👨‍💻 Author
-Arun
+👨‍💻 ##Author
+#Arun C
 Data Analyst | Power BI Developer
 📧 Email: (arunchinnasamy3@gmail.com)
 
