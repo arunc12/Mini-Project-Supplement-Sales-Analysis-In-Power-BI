@@ -1,12 +1,6 @@
 📊 Supplement Sales Analytics and Performance Insights (Jan 2020 – Mar 2025)
 Tools: Power BI | DAX | Data Modeling | Power Query
 Domain: Retail | Sales Analytics | E-Commerce
-📊 Supplement Sales Analytics and Performance Insights (Jan 2020 – Mar 2025)
-Tools: Power BI | DAX | Data Modeling | Power Query
-Domain: Retail | Sales Analytics | E-Commerce
-Show Image
-Show Image
-Show Image
 
 🧩 Project Overview
 This project analyses supplement sales data (January 2020 – March 2025) across 16 products sold in USA, UK, and Canada on iHerb, Amazon, and Walmart.
@@ -175,6 +169,7 @@ VisualDescriptionClustered Column ChartProjected Total Sales by Year — bar com
 Forecast Basis: 2024 full-year net revenue ($3,831,019) as baseline · +7% for 2026 · +10% CAGR from 2027–2030
 YearProjected RevenueGrowth2026~$4,099,190+7%2027~$4,509,110+10%2028~$4,960,020+10%2029~$5,456,023+10%2030~$6,001,625+10%
 
+
 📊 Performance Insights
 🟢 Vitamins were the top-grossing category with $3,721,089 in net revenue.
 📅 2023 recorded peak net revenue at $3,863,855 among all full years.
@@ -219,7 +214,7 @@ Click any chart element to cross-filter all other visuals instantly
 👨‍💻 Author
 Arun
 Data Analyst | Power BI Developer
-📧 Email: (your email)
-💼 LinkedIn: (your LinkedIn)
-🌐 GitHub: (your GitHub)
+📧 Email: (arunchinnasamy3@gmail.com)
+💼 LinkedIn: (www.linkedin.com/in/arun-c-b51b4b2a2)
+🌐 GitHub: (arunc12)
 If you found this project useful or have any feedback, feel free to reach out!
